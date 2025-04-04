@@ -3,10 +3,10 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 1.16.2</title>
+            <title>Version 1.16.3</title>
             <description>App stability and bug fix</description>
-            <pubDate>Mon, 10 Mar 2025 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.trinitysoftwarecenter.skuuni.skuuni&pli=1" sparkle:version="1.16.2" sparkle:os="android" />
+            <pubDate>Fri, 4 Apr 2025 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.trinitysoftwarecenter.skuuni.skuuni&pli=1" sparkle:version="1.16.3" sparkle:os="android" />
         </item>
     </channel>
 </rss>
